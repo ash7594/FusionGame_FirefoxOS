@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "name": "Fusion",
+  "description": "Extremely addictive game with multiple players (upto 8 people). The aim is to eliminate all opponents and conquer the whole of the board. Each grid on the board has capacity to fill balls to a maximum capacity after which the grid explodes...capturing the adjacent grids. So strengthen your strategy and go crazy playing...HAPPY GAMING",
+  "launch_path": "/index.html",
+  "fullscreen": "true",
+  "icons": {
+    "128": "/images/icon_128.jpg",
+    "32": "/images/icon_32.jpg",
+	"60": "/images/icon_60.jpg",
+	"90": "/images/icon_90.jpg",
+	"120": "/images/icon_120.jpg",
+	"256": "/images/icon_256.jpg"
+  },
+  "developer": {
+    "name": "Ashutosh Nath Agarwal",
+    "url": "https://mozillians.org/en-US/u/ashutosh7594/"
+  },
+  "default_locale": "en"
+}
